@@ -1,4 +1,6 @@
 from flask import Flask
+from flask import request
+
 import streamlit as st
 import requests
 
